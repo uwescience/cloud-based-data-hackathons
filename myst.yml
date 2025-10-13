@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 38e6a0e1-6421-4bdb-94c4-7fbbf6ce1365
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/uwescience/cloud-based-data-hackathons
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
